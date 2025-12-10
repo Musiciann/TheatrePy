@@ -1,4 +1,4 @@
-from Source.ClassPerson import Person
+from Source.ClassPerson import 
 from Source.ClassCostume import Costume
 from Source.ClassActor import Actor
 from Source.ClassDecoration import Decoration
